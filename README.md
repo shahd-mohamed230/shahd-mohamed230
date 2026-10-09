@@ -1,190 +1,174 @@
-```markdown
-# Hi 👋 I'm Shahd Mohamed Ibrahim
+# Hi, I'm Shahd Mohamed Ibrahim 👋
 
-### Data Engineer | Big Data | Data Pipelines | SQL | Python | Spark
+### Data Engineer | Big Data | Data Pipelines
 
-🎓 Computer Science Graduate — Sohag University, 2025  
-💼 Big Data Intern — Samsung Innovation Campus (SIC)  
-📚 ITI Intensive Training Program — Business Intelligence / Power BI  
-🏆 ECPC Finalist | Codeforces Specialist  
-
-I build data pipelines, process large-scale data, and transform raw data into reliable analytical solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-mohamed230/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/shahd-mohamed230)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white)](mailto:dev.shahd.mohamed.ibrahim@gmail.com)
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science graduate focused on **Data Engineering, Big Data, and scalable data pipelines**.
-
-I have hands-on experience through internships, intensive training, and practical projects involving:
-
-- Data Engineering & Big Data
-- ETL / ELT
-- Batch & Streaming Data Processing
-- Data Integration & Transformation
-- Data Modeling & Data Warehousing
-- SQL & Python
-- Distributed Data Processing
-- Cloud Data Platforms
-- Business Intelligence & Analytics
-
-Currently, I am a **Big Data Intern at Samsung Innovation Campus (SIC)**, where I am developing practical skills in data pipelines, distributed processing, batch processing, streaming, and Big Data technologies.
-
-Previously, I completed the **ITI Intensive Training Program — Business Intelligence / Power BI Track**, where I worked extensively with SQL, Python, ETL, Data Warehousing, SSIS, SSAS, SSRS, Power BI, Tableau, and Azure fundamentals.
+- 🎓 Computer Science graduate from Sohag University (2025).
+- 🚀 Big Data Intern at Samsung Innovation Campus (SIC).
+- 📊 Completed ITI's Business Intelligence / Power BI Track.
+- ⚙️ Interested in building scalable data pipelines, ETL/ELT workflows, data warehouses, and batch and streaming solutions.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Data Engineering
-`ETL/ELT` `Data Pipelines` `Data Integration` `Data Transformation`  
-`Batch Processing` `Streaming` `Data Quality`
+### 💻 Languages
 
-### Big Data
-`Apache Spark` `PySpark` `Hadoop` `HDFS` `Hive`  
-`Kafka` `Apache NiFi` `Flink`
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python logo"/> <strong>Python</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="SQL logo"/> <strong>SQL</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++ logo"/> <strong>C++</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash logo"/> <strong>Bash</strong>
+</p>
 
-### Programming
-`Python` `SQL` `Bash` `C++`
+### ⚡ Big Data & Data Engineering
 
-### Databases
-`SQL Server` `MySQL` `MariaDB` `MongoDB` `NoSQL`
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark logo"/> <strong>Apache Spark</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40" alt="Hadoop logo"/> <strong>Hadoop</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka logo"/> <strong>Kafka</strong>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="40" alt="Apache Hive logo"/> <strong>Hive</strong>
+</p>
 
-### Data Modeling & Warehousing
-`Dimensional Modeling` `Star Schema`  
-`Fact & Dimension Design` `Data Warehouse` `ERD` `SCD`
+<p>
+  <img src="https://cdn.simpleicons.org/apacheflink/E6526F" width="40" alt="Apache Flink logo"/> <strong>Flink</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" alt="Apache Airflow logo"/> <strong>Airflow</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg" width="55" alt="dbt logo"/> <strong>dbt</strong>
+</p>
 
-### Cloud & Data Platforms
-`AWS` `Amazon S3` `AWS Glue`  
-`Azure` `Microsoft Fabric` `OneLake`  
-`Databricks` `Delta Lake`
+### ☁️ Cloud & Data Platforms
 
-### Microsoft Data Stack
-`SSIS` `SSAS` `SSRS` `Power BI` `DAX` `Excel`
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS logo"/> <strong>AWS</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure logo"/> <strong>Azure</strong>
+  &nbsp;&nbsp;
+  <img src="https://www.databricks.com/sites/default/files/2026-05/Databricks-Logo-Icon.svg" width="40" alt="Databricks logo"/> <strong>Databricks</strong>
+</p>
 
-### Visualization & Analytics
-`Power BI` `Tableau` `KPI Development`  
-`Dashboarding` `Business Reporting`
+<p>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric logo"/> <strong>Microsoft Fabric</strong>
+  &nbsp;&nbsp;
+  <img src="https://awsfundamentals.com/assets/aws-icons/Arch_AWS-Glue_64.svg" width="40" alt="AWS Glue logo"/> <strong>AWS Glue</strong>
+</p>
 
-### Tools
-`Linux` `Git` `GitHub` `Docker`  
-`Apache Airflow` `dbt` `Fivetran` `Airbyte`
+### 🗄️ Databases
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server logo"/> <strong>SQL Server</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL logo"/> <strong>MySQL</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="40" alt="MariaDB logo"/> <strong>MariaDB</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB logo"/> <strong>MongoDB</strong>
+</p>
+
+### 📊 BI & Analytics
+
+<p>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI logo"/> <strong>Power BI</strong>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau logo"/> <strong>Tableau</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40" alt="Microsoft Excel logo"/> <strong>Excel</strong>
+</p>
+
+### 🔧 Tools & Version Control
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux logo"/> <strong>Linux</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git logo"/> <strong>Git</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub logo"/> <strong>GitHub</strong>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker logo"/> <strong>Docker</strong>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Video Game Analytics — End-to-End BI Enterprise Solution
+### 🎮 Video Game Analytics & Data Warehouse
 
-**ITI Graduation Project**
+- Designed a data warehouse integrating **35M+ records** using SQL Server and SSIS.
+- Built analytical models and reporting solutions with SSAS, SSRS, Power BI, Tableau, and Excel.
 
-- Designed an end-to-end BI and data warehousing solution processing **35M+ records**.
-- Built data preparation and ETL workflows using **Python, SQL Server, and SSIS**.
-- Developed fact and dimension tables and analytical models using **SSAS**.
-- Implemented advanced SQL including CTEs, window functions, stored procedures, functions, triggers, and indexes.
-- Delivered analytical dashboards and reports using **Power BI, Tableau, Excel, and SSRS**.
+### 🛒 AWS E-Commerce Data Pipeline
 
-### ☁️ AWS E-Commerce Data Engineering Pipeline
+- Built an ETL pipeline using AWS Glue and PySpark.
+- Processed e-commerce data into partitioned Parquet files stored in Amazon S3.
 
-- Built a cloud-based data pipeline using **AWS Glue, PySpark, Amazon S3, and Parquet**.
-- Processed customers, products, orders, and order details.
-- Implemented raw-to-curated data transformations.
-- Applied data partitioning and optimized Parquet storage using **Snappy compression**.
+### 🏢 Microsoft Fabric IT Service Analytics
 
-### 🟦 Microsoft Fabric — IT Service Management Data Platform
+- Developed an analytics workflow using Microsoft Fabric, OneLake, Lakehouse, and Dataflows Gen2.
+- Prepared data for reporting and business insights.
 
-- Built an end-to-end data platform using **Microsoft Fabric and OneLake**.
-- Worked with **Data Factory Pipelines, Dataflows Gen2, and Lakehouse**.
-- Implemented data ingestion, transformation, storage, and serving workflows.
+### 🚗 Big Data Rides Pipeline
 
-### 🚕 Uber-like Rides Data Pipeline — Geospatial Processing
+- Built a data workflow using Apache NiFi, HDFS, PySpark, and Hive.
+- Processed and transformed data for downstream analytics.
 
-- Built a distributed data pipeline using **PySpark, HDFS, Hive, and Apache NiFi**.
-- Processed ride and booking data.
-- Generated geospatial keys from latitude/longitude coordinates for analytical use cases.
-- Connected processed data with **Tableau** for analysis.
+---
 
-### 📊 Tableau Market Intelligence Dashboard
+## 💼 Experience & Training
 
-- Developed an interactive Tableau dashboard using SQL Server data.
-- Analyzed market performance, regional intelligence, trends, forecasting, and platform insights.
+**Samsung Innovation Campus (SIC)** — Big Data Intern  
+*Jul 2026 – Present*
 
-### 📡 Telecom Management System — SQL Analytics
+**Information Technology Institute (ITI)** — Business Intelligence / Power BI Track  
+*Jan 2026 – Jul 2026*
 
-- Designed an ERD and logical/physical database schema.
-- Developed advanced SQL analytics using CTEs, window functions, procedures, triggers, views, and indexes.
-- Analyzed KPIs including **ARPU, revenue by plan, over-usage alerts, and customer churn**.
+---
+
+## 🏆 Achievements
+
+- **ECPC Finalist** — Participated in the Egyptian Collegiate Programming Contest from 2022 to 2024; ranked 27th among 100+ teams.
+- **Codeforces** — Reached Specialist rank.
+- **Egypt Career Summit 2024** — Ranked among the Top 5 student teams through MindX.
+- **Google Developer Student Clubs (GDSC) Sohag** — Mentored 100+ students in Problem Solving and Programming Basics.
+- **SMART Team** — Participated in student-led technical activities.
 
 ---
 
 ## 🎓 Education
 
 **Sohag University**  
-Faculty of Computers and Artificial Intelligence  
-**B.Sc. in Computer Science — 2025**
-
-Relevant Coursework:
-
-`Database Systems` `Data Structures` `Algorithms`  
-`Software Engineering` `Computer Networks`  
-`Operating Systems` `Information Systems`
+B.Sc. in Computer Science  
+Faculty of Computers and Artificial Intelligence | 2025
 
 ---
 
-## 📚 Professional Courses
+## 📚 Courses & Certifications
 
-- Microsoft Fabric Data Engineer (DP-700) — Coursera
-- IBM Data Engineering — Coursera
-- Advanced Data Engineering — Duke University, Coursera
-- Cloud Data Engineering — Duke University, Coursera
-- Data Engineering on AWS — Foundations — Amazon Web Services, Coursera
-- Analyzing Big Data with SQL — Cloudera, Coursera
-- Snowflake Data Engineering — Coursera
-- Microsoft Power BI Data Analyst Professional Certificate — Coursera
-
----
-
-## 🏆 Achievements & Leadership
-
-- 🏆 **ECPC Finalist (2022–2024)** — Ranked 27th among 100+ teams.
-- 💻 **Codeforces** — Maximum rating: Specialist.
-- 🥇 **MindX — Egypt Career Summit 2024** — Ranked among the Top 5.
-- 👩‍🏫 **Google Developer Student Clubs (GDSC) Sohag (2022–2025)** — Mentored 100+ students in Problem Solving and Programming Basics.
-- 👥 **SMART Team** — Delivered problem-solving training and supported students in programming fundamentals.
+- Microsoft Fabric Data Engineer (DP-700) — Learning
+- IBM Data Engineering
+- Advanced Data Engineering — Duke University
+- Cloud Data Engineering — Duke University
+- Data Engineering on AWS
+- Snowflake Data Engineering
+- Microsoft Power BI Data Analyst Professional Certificate
 
 ---
 
-## 📈 Currently Focusing On
+## 📫 Connect With Me
 
-- Advanced Data Engineering
-- Distributed Data Processing with Spark
-- Data Pipeline Architecture
-- Batch & Streaming Systems
-- Apache Kafka
-- Hadoop Ecosystem
-- Cloud Data Engineering
-- Microsoft Fabric
-- Databricks & Delta Lake
-- Data Quality & Pipeline Monitoring
-- Data Modeling & Data Warehousing
-
----
-
-## 🎯 Career Goal
-
-To grow as a **Data Engineer / Big Data Engineer** and build reliable, scalable data platforms and pipelines that transform raw data into trusted data products and business insights.
-
----
-
-## 📫 Let's Connect
-
-📧 **Email:** dev.shahd.mohamed.ibrahim@gmail.com
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/shahd-mohamed230/
-
-💻 **GitHub:** https://github.com/shahd-mohamed230
-
----
-
-⭐ Feel free to explore my repositories and projects.
-```
+- **LinkedIn:** [linkedin.com/in/shahd-mohamed230](https://www.linkedin.com/in/shahd-mohamed230/)
+- **GitHub:** [github.com/shahd-mohamed230](https://github.com/shahd-mohamed230)
+- **Email:** [dev.shahd.mohamed.ibrahim@gmail.com](mailto:dev.shahd.mohamed.ibrahim@gmail.com)
